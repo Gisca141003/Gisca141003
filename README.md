@@ -7,14 +7,18 @@
    - Jenis Kelamin    : Perempuan
    - Status           : Mahasiswa
    - E-Mail           : giscamehengkelambung@gmail.com
-   - Nomor Hp         : 0823###### 
+   - Nomor Hp         : 0823****
 
 
- ## Education:
+  PENDIDIKAN:
+  
+ ### Politeknik Negeri Nusa Utara | Sistem Informasi | Kampus B Manganitu'2021-Sekarang'
  
- ### 1.Politeknik Negeri Nusa Utara | Sistem Informasi | Kampus B Manganitu'2021-Sekarang'
+ ### SMA Negeri 1 Tabukan Utara   | IPA | Likuang'2019-2021'
  
- ### 2.SMA Negeri 1 Tabukan Utara   | IPA | Likuang'2019-2021'
+ ### SMP N 4 Tabukan Utara        | Mala'2016-2019
+ 
+ ### SDN Mala                     | Mala'2010-2016
  
  <br />
  <br />
