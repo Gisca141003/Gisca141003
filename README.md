@@ -1,4 +1,4 @@
-### Hi there,I'm Gisca 👋
+  ### I'm Gisca 👋
 
   ## About Me:
    - Nama             : Gisca Gian Mehengkelambung
