@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there,I'm Gisca 👋
 
-<!--
-**Gisca141003/Gisca141003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## About Me:
+   - Nama             : Gisca Gian Mehengkelambung
+   - Alamat           : Kampung Mala
+   - Tempat/Tgl lahir : Mala,14 Oktober 2003
+   - Jenis Kelamin    : Perempuan
+   - Status           : Mahasiswa
+   - E-Mail           : giscamehengkelambung@gmail.com
+   - Nomor Hp         : 0823###### 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Education:
+ 
+ ### 1.[Politeknik Negeri Nusa Utara] | Sistem Informasi | Kampus B Manganitu'2021-Sekarang'
+ 
+ ### 2.[SMA Negeri 1 Tabukan Utara]   | IPA | Likuang'2019-2021'
+ 
+ <br />
+ <br />
+
+
+
+
+
