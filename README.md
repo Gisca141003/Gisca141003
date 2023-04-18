@@ -14,11 +14,11 @@
   
  ### Politeknik Negeri Nusa Utara | Sistem Informasi | Kampus B Manganitu'2021-Sekarang'
  
- ### SMA Negeri 1 Tabukan Utara   | IPA | Likuang'2019-2021'
+ ### SMA Negeri 1 Tabukan Utara   | IPA | Likuang'2018-2021'
  
- ### SMP N 4 Tabukan Utara        | Mala'2016-2019
+ ### SMP N 4 Tabukan Utara        | Mala'2015-2018
  
- ### SDN Mala                     | Mala'2010-2016
+ ### SDN Mala                     | Mala'2009-2015'
  
  <br />
  <br />
