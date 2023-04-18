@@ -12,9 +12,9 @@
 
  ## Education:
  
- ### 1.[Politeknik Negeri Nusa Utara] | Sistem Informasi | Kampus B Manganitu'2021-Sekarang'
+ ### 1.Politeknik Negeri Nusa Utara | Sistem Informasi | Kampus B Manganitu'2021-Sekarang'
  
- ### 2.[SMA Negeri 1 Tabukan Utara]   | IPA | Likuang'2019-2021'
+ ### 2.SMA Negeri 1 Tabukan Utara   | IPA | Likuang'2019-2021'
  
  <br />
  <br />
